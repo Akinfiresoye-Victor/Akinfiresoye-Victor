@@ -1,7 +1,7 @@
 # Hi there, I'm Victor 👋  
 
 🚀 **Python Developer | Aspiring AI Engineer**  
-Accomplished and results-driven programmer with hands-on experience in backend web development and data-driven solutions. Passionate about building robust applications and transitioning into AI engineering.  
+Determined programmer with hands-on experience in backend web development and data-driven solutions. Eager to build robust applications and transition into AI engineering.  
 
 ---
 
