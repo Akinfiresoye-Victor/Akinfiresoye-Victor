@@ -1,4 +1,4 @@
-# Hi there, I'm Victor 👋  
+# Oh Hey there, I'm Victor 👋  
 
 🚀 **Python Developer | Aspiring AI Engineer**  
 Determined programmer with hands-on experience in backend web development and data-driven solutions. Eager to build robust applications and transition into AI engineering.  
