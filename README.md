@@ -52,4 +52,4 @@ Determined programmer with hands-on experience in backend web development and da
 
 ---
 
-✨ *“Code is like poetry some get it, some don't. Those who don't get it are confused. Those who get it are even more confused”*  
+✨ *“Code is like poetry some get it, some don't. Those who don't get it are confused. Those who get it are even more confused.”*  
